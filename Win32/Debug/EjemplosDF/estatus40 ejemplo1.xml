@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Acuse xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <ExtensionData />
+ <CodigoEstatus>S - Comprobante obtenido satisfactoriamente.</CodigoEstatus>
+ <Estado>Vigente</Estado>
+ <EsCancelable>Cancelable con aceptación</EsCancelable>
+ <EstatusCancelacion />
+</Acuse>
